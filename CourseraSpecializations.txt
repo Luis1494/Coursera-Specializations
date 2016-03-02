@@ -1,0 +1,170 @@
+﻿Coursera Specializations
+
+Data Science
+1. Big Data UC San Diego 399 USD (DS-BigData-UCSD)
+	1
+	Introduction to Big Data
+	https://www.coursera.org/learn/intro-to-big-data 
+	2
+	Hadoop Platform and Application Framework
+	https://www.coursera.org/learn/hadoop 
+	3
+	Introduction to Big Data Analytics
+	https://www.coursera.org/learn/bigdata-analytics 
+	4
+	Machine Learning with Big Data
+	https://www.coursera.org/learn/machinelearningwithbigdata 
+	5
+	Graph Analytics for Big Data
+	https://www.coursera.org/learn/graph-analytics 
+	6
+	Big Data - Capstone Project
+
+	 
+2. Machine Learning UW 6C 426 USD (DS-ML-UW)
+	1
+	Machine Learning Foundations: A Case Study Approach
+	https://www.coursera.org/learn/ml-foundations 
+	2
+	Machine Learning: Regression
+	https://www.coursera.org/learn/ml-regression 
+	3
+	Machine Learning: Classification
+	https://www.coursera.org/learn/ml-classification 
+	4
+	Machine Learning: Clustering & Retrieval
+	https://www.coursera.org/learn/ml-clustering-and-retrieval 
+	5
+	Machine Learning: Recommender Systems & Dimensionality Reduction
+	https://www.coursera.org/learn/ml-recommenders 
+	6
+	Machine Learning Capstone: An Intelligent Application with Deep Learning
+
+Computer Science
+3. Full Stack Web Development 6C 426 USD (CS-FullStackWeb-HKUST)
+	1
+	Front-End Web UI Frameworks and Tools
+	https://www.coursera.org/learn/web-frameworks 
+	2
+	Front-End JavaScript Frameworks: AngularJS
+	https://www.coursera.org/learn/angular-js 
+	3
+	Multiplatform Mobile App Development with Web Technologies
+	https://www.coursera.org/learn/hybrid-mobile-development 
+	4
+	Server-side Development with NodeJS
+	https://www.coursera.org/learn/server-side-development 
+	5
+	Full Stack Web Development Specialization Capstone Project
+	
+4. Data Structures and Algorithms 6C 426 USD (CS-DSAlgo-UCSD-HSE)
+	1
+	Algorithmic Toolbox
+	https://www.coursera.org/learn/algorithmic-toolbox/
+	2
+	Data Structures
+	https://www.coursera.org/learn/data-structures 
+	3
+	Algorithms on Graphs and Trees
+	https://www.coursera.org/learn/algorithms-on-graphs-and-trees 
+	4
+	Algorithms on Strings
+	https://www.coursera.org/learn/algorithms-on-strings 
+	5
+	Advanced Algorithms and Complexity
+	https://www.coursera.org/learn/advanced-algorithms-and-complexity 
+	6
+	Assembling Genomes and Finding Disease-Causing Mutations
+
+5. Python for Everybody 373 USD (CS-Python-UMich)
+	1
+	Programming for Everybody (Getting Started with Python)
+	https://www.coursera.org/learn/python 
+	2
+	Python Data Structures
+	https://www.coursera.org/learn/python-data 
+	3
+	Using Python to Access Web Data
+	https://www.coursera.org/learn/python-network-data 
+	4
+	Using Databases with Python
+	https://www.coursera.org/learn/python-databases 
+	5
+	Capstone: Retrieving, Processing, and Visualizing Data with Python
+
+6. Software Product Management Alberta 390 USD (CS-SPM-Alberta)
+	1
+	Introduction to Software Product Management
+	https://www.coursera.org/learn/introduction-to-software-product-management 
+	2
+	Software Processes and Agile Practices
+	https://www.coursera.org/learn/software-processes-and-agile-practices 
+	3
+	Client Needs and Software Requirements
+	https://www.coursera.org/learn/client-needs-and-software-requirements 
+	4
+	Agile Planning for Software Products
+	https://www.coursera.org/learn/agile-planning-for-software-products 
+	5
+	Reviews & Metrics for Software Improvements
+	https://www.coursera.org/learn/reviews-and-metrics-for-software-improvements
+	6
+	Software Product Management Capstone
+
+Electrical Engineering
+7. Robotics UPenn 6C 264 USD (EE-Robotics-PennU)
+	1
+	Robotics: Aerial Robotics
+	https://www.coursera.org/learn/robotics-flight 
+	2
+	Robotics: Computational Motion Planning
+	https://www.coursera.org/learn/robotics-motion-planning 
+	3
+	Robotics: Mobility
+	https://www.coursera.org/learn/robotics-mobility 
+	4
+	Robotics: Perception
+	https://www.coursera.org/learn/robotics-perception 
+	5
+	Robotics: Estimation and Learning
+	https://www.coursera.org/learn/robotics-estimation-and-learning 
+	6
+	Robotics: Capstone
+
+8. Power Electronics UC Boulder 6C 294 USD (EE-PowerElectronics-UCB)
+	1
+	Introduction to Power Electronics
+	https://www.coursera.org/learn/power-electronics 
+	2
+	Converter Circuits
+	https://www.coursera.org/learn/converter-circuits 
+	3
+	Converter Control
+	https://www.coursera.org/learn/converter-control 
+	4
+	Advanced Converter Control Techniques
+	https://www.coursera.org/learn/advanced-converter-control 
+	5
+	Magnetics for Power Electronic Converters
+	https://www.coursera.org/learn/magnetics-power-electronic-converters 
+	6
+	Capstone Design Project in Power Electronics
+
+9. IoT UCSD 254 USD (EE-IoT-UCSD)
+	1
+	Internet of Things: How did we get here?
+	https://www.coursera.org/learn/internet-of-things-history 
+	2
+	Internet of Things: Setting Up Your DragonBoard™ Development Platform
+	https://www.coursera.org/learn/internet-of-things-dragonboard 
+	3
+	Internet of Things: Sensing and Actuation From Devices
+	https://www.coursera.org/learn/internet-of-things-sensing-actuation 
+	4
+	Internet of Things: Communication Technologies
+	https://www.coursera.org/learn/internet-of-things-communication 
+	5
+	Internet of Things: Multimedia Technologies
+	https://www.coursera.org/learn/internet-of-things-multimedia 
+	6
+	Internet of Things Capstone: Build a Mobile Surveillance System
