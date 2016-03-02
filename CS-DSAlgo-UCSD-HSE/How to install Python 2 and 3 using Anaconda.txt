@@ -1,0 +1,11 @@
+How to install Python 2 and 3 using Anaconda
+
+Step 1:
+	conda create -n py34 python=3.4 anaconda
+Step 2:
+	activate py34
+Step 3:
+	deactivate py34
+
+Source(s):
+[1] http://stackoverflow.com/questions/3809314/how-to-install-both-python-2-x-and-python-3-x-in-windows-7
